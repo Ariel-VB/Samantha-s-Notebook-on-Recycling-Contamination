@@ -1,5 +1,5 @@
-ipywidgets==7.2.1
 notebook==4.0.0
 pandas==0.18.0
 ipywidgets==7.0.0
+ipysheet
 
